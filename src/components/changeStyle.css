@@ -1,0 +1,19 @@
+
+.change-card{
+    padding: 20px;
+    max-width: 600px;
+}
+
+@media (min-width: 768px) {
+    .change-main {
+        max-width: 500px;
+        margin-top: 200px;
+    }
+}
+
+@media (max-width: 767px) {
+    .change-main {
+        margin: 20px;
+        padding: 15px;
+    }
+}
